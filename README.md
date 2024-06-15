@@ -1,5 +1,5 @@
 # cricket_data_analysis
-
+[![Version Control](https://img.shields.io/badge/version%20control-git-blue)](https://git-scm.com/)
 # Objective:
 The goal of this project is to analyze cricket match data to derive insights and create visualizations that showcase various statistical aspects of the game.
 
@@ -50,10 +50,15 @@ Managing the project files, SQL queries, and documentation on GitHub.
 Version control and collaboration with Git.
 
 # Tools Used:
-# Database: MySQL 
-# Query Language: SQL for data extraction, transformation, and aggregation.
-# Visualization Tool: Grafana for creating interactive dashboards.
-# Version Control: Git for managing codebase and project versions.
+
+# Database:
+MySQL 
+# Query Language: 
+SQL for data extraction, transformation, and aggregation.
+# Visualization Tool: 
+Grafana for creating interactive dashboards.
+# Version Control: 
+Git for managing codebase and project versions.
 
 # Conclusion:
 This project aims to leverage cricket match data to explore various aspects of the game statistically and visually. The analysis includes both basic and advanced SQL queries to derive meaningful insights that can be presented effectively using Grafana. By utilizing these tools and methodologies, the project provides a comprehensive view of cricket performance metrics and trends over time.
